@@ -1,2 +1,2 @@
 # QR_CODE_GENERATOR
-code for qr generator
+code for qr generator using python
